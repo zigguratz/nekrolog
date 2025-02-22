@@ -5,14 +5,16 @@ title = 'Home'
 description= 'Homepage!'
 menu = 'navbar'
 weight= '-1'
+
 +++
 
 
 
 
 ![](https://nekromant.neocities.org/fprosethree.png)
-##### Welcome to the Journal Section of Nekromant, Nekrologia! 
 
-You can view articles i've written, some translations and musings, and hopefully in the future some writing about my OC universe.
+##### Welcome to the Journal Section of Nekromant, the Nekrolog! 
 
->[ Return to Main Site](https://nekromant.neocities.org/main)
+You can view articles and essays i've written and various bits and pieces like translations all here below.
+
+[ Click Here ](https://nekromant.neocities.org/main) to Return to the Main Site.
